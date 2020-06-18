@@ -1,6 +1,7 @@
 # Python
 Programs involving numbers in python
-#List of programs within this repository
+
+List of programs within this repository
 
 #1.guessing_game.py
 
