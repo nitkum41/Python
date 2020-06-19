@@ -19,3 +19,11 @@ You will then guess a 3 digit number.
 The computer will then give back clues.
 Based on these clues you will guess again until you break the code with a
 perfect match!
+
+#3.Find_E_to_the_Nth_Digit.py
+
+Calculating value of E (Euler number) using newton's formula / brothers series upto Nth(upto 50) places as asked by user.Using recursion and rounding functions to achieve this outcome.
+
+#4.Find_Pi_to_the_Nth_Digit.py
+
+Calculating value of Pi upto Nth(upto 1000) places as asked by the user using Chudnovsky Algorithm.we use recursion and rounding functions to achieve this outcome.
